@@ -36,7 +36,7 @@ The CNN model is designed to learn directly from raw IQ signals:
 - Classify modulation schemes using IQ signal data  
 - Evaluate performance under **low SNR (-10 dB)**  
 - Compare **ML vs Deep Learning approaches**  
-- Improve robustness using preprocessing and tuning  
+- Improve robustness using preprocessing and tuning.  
 
 ---
 
